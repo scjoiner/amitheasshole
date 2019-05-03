@@ -1,0 +1,7 @@
+client_id = ""
+client_secret = ""
+redirect_uri = "http://127.0.0.1:65010/authorize_callback"
+refresh_token = ""
+password=""
+username="Judgement_Bot_AITA"
+user_agent="AITA vote bot"
