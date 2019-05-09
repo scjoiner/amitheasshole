@@ -1,7 +1,7 @@
 # amitheasshole
 Judgment bot for /r/AmITheAsshole
 
-AmITheAsshole is a community on reddit.com with over 700,000 as of May, 2019. It is the 11th most commented community on the website and receives over 600 submissions and 20,000 comments per day. 
+AmITheAsshole is a community on reddit.com with over 700,000 users as of May, 2019. It is the 11th most commented community on the website and receives over 600 submissions and 20,000 comments per day. 
 
 The concept of the community is that users describe a scenario in which they may have been in the moral wrong (the "asshole") and the rest of the users cast a judgment ("You are the asshole", "You are not the asshole", etc.). After a predeteremined judgment period, this script selects the overall judgment based on the highest-rated judgment in the submission. 
 
